@@ -3,7 +3,7 @@
   "name": "Weback",
   "documentation": "https://www.home-assistant.io/integrations/weback",
   "requirements": [
-    "git+https://github.com/timdreier/weback-hass.git@master#weback-unofficial==0.3.4"
+    "git+https://github.com/timdreier/weback-unofficial.git@master#0.3.4"
   ],
   "codeowners": [
     "@opravdin"
